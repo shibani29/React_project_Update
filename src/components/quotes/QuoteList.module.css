@@ -1,0 +1,17 @@
+.list {
+  text-align: center;
+  list-style: none;
+  align-self: center;
+}
+.click {
+  font: inherit;
+  cursor: pointer;
+  height: 3rem;
+  background-color: #8a2b06;
+  border: 1px solid #8a2b06;
+  color: white;
+  padding: 1rem;
+  border-radius: 20px;
+  font-weight: bold;
+  margin: 0.25rem 0.25rem;
+}

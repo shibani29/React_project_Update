@@ -1,0 +1,13 @@
+.comments {
+  border-top: 0.1rem solid white;
+  text-align: center;
+  color: white;
+}
+
+.comments > button {
+  font-size: 1.25rem;
+  color: white;
+}
+.center {
+  align-items: center;
+}

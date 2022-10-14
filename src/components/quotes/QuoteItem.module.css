@@ -1,0 +1,38 @@
+.props {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: space-between;
+
+  border-bottom: 1px solid #ccc;
+}
+.figure {
+  width: 10rem;
+}
+.props h2 {
+  margin: 0 0 0.25rem 0;
+}
+.div {
+  font-style: italic;
+}
+.hi {
+  margin: 0 0 1rem 0;
+}
+.price {
+  margin-top: 0.25rem;
+  font-weight: bold;
+  color: #ad5502;
+  font-size: 1.25rem;
+}
+.click {
+  font: inherit;
+  cursor: pointer;
+  height: 3rem;
+  background-color: #8a2b06;
+  border: 1px solid #8a2b06;
+  color: white;
+  padding: 1rem;
+  border-radius: 20px;
+  font-weight: bold;
+  margin: 0.25rem 0.25rem;
+}

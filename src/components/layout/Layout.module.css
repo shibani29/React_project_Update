@@ -1,0 +1,11 @@
+.main {
+  margin: 3rem auto;
+  width: 90%;
+  max-width: 40rem;
+}
+.main-image img {
+  width: 110%;
+  height: 100%;
+  object-fit: cover;
+  transform: rotateZ(-5deg) translateY(-4rem) translateX(-1rem);
+}
